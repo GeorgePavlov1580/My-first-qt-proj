@@ -1,0 +1,5 @@
+G:/Cpp_projects/build-FirstProject-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/CMakeFiles/FirstProject.dir
+G:/Cpp_projects/build-FirstProject-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+G:/Cpp_projects/build-FirstProject-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+G:/Cpp_projects/build-FirstProject-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/CMakeFiles/FirstProject_autogen_timestamp_deps.dir
+G:/Cpp_projects/build-FirstProject-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/CMakeFiles/FirstProject_autogen.dir
