@@ -2,7 +2,7 @@
 #include <QApplication>
 #include <QLabel>
 
-// тут ничего нового
+// тут ничего нового, сохраняй оригинальный main.cpp
 int main(int argc, char *argv[]){
     QApplication a(argc, argv);
     MainWindow w;
